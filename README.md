@@ -1,15 +1,16 @@
-# 🐟 AquaTutor
+--------------------------------------------------------
+🐟 AquaTutor
+Semi-Supervised Underwater Fish Detection
 
-> **A Practical Research Project for Semi-Supervised Underwater Fish Detection Using Modern Computer Vision**
+Status: Active Development
 
-![Status](https://img.shields.io/badge/Status-In%20Development-blue)
-![Python](https://img.shields.io/badge/Python-3.11-blue)
-![Google Colab](https://img.shields.io/badge/Google-Colab-F9AB00)
-![YOLOv8](https://img.shields.io/badge/YOLO-v8-green)
-![License](https://img.shields.io/badge/License-MIT-success)
+MSc Artificial Intelligence
+University of Galway
 
----
+Google Colab • YOLO • FiftyOne • CVAT • Python
 
+Current Version: v0.1.0
+--------------------------------------------------------
 ## Overview
 
 AquaTutor is an open-source research project investigating **semi-supervised learning (SSL)** for underwater fish detection.
